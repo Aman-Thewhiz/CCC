@@ -1,0 +1,8 @@
+# Student Management System Database
+
+[ADMINS]
+admin:admin123
+
+[STUDENTS]
+1|aman|AP2211221|20|CSE
+2|aman|AP24110010|20|CSE
